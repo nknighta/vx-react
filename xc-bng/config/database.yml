@@ -1,0 +1,5 @@
+development:
+  adapter: postgresql
+  database: xc_bng_development
+  username: postgres
+  password: postgres
